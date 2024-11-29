@@ -57,7 +57,7 @@
 						<key>Comment</key>
 						<string>后中1</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -70,7 +70,7 @@
 						<key>Comment</key>
 						<string>后中2</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS02</string>
 						<key>port</key>
@@ -83,7 +83,7 @@
 						<key>Comment</key>
 						<string>type c 左侧</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
@@ -122,7 +122,7 @@
 						<key>Comment</key>
 						<string>前1</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS07</string>
 						<key>port</key>
@@ -135,7 +135,7 @@
 						<key>Comment</key>
 						<string>后下1</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
@@ -148,7 +148,7 @@
 						<key>Comment</key>
 						<string>后下2</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS10</string>
 						<key>port</key>
@@ -161,7 +161,7 @@
 						<key>Comment</key>
 						<string>后上1</string>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS13</string>
 						<key>port</key>
